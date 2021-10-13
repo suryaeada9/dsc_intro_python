@@ -38,4 +38,5 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# Python 
+# Python checkpoints
+.ipynb_checkpoints/ 

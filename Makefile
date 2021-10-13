@@ -1,4 +1,4 @@
-HTML_FILES = UCSAS_Python.slides.html
+HTML_FILES = dsc_python.slides.html
 
 all: $(HTML_FILES)
 
